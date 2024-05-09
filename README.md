@@ -18,9 +18,7 @@
 <h3>Evaluation parameters of different models</h3>
 <image  width="600px" src="img2.png">
 
-##  TOPSIS Score Calculation
-Utilized the custom 'Topsis-Divyam-102103142' package to compute TOPSIS scores based on the model performance metrics.
-[Link to Topsis-Divyam-10210342 Package](https://pypi.org/project/Topsis-Divyam-1021031042/)
+
 
    <section id="key-features">
         <h2>Key Features</h2>
@@ -65,6 +63,6 @@ Utilized the custom 'Topsis-Divyam-102103142' package to compute TOPSIS scores b
 
   <section id="contact">
         <h2>Contact</h2>
-        <p>Divyam Malik</p>
-        <p>Github Link: <a href="https://github.com/divyam6969">github</a></p>
+        <p>Alok Shree Koirala</p>
+        <p>Github Link: <a href="https://github.com/alok059">github</a></p>
     </section>
